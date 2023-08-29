@@ -30,7 +30,6 @@
       "email": "anisul2010s@yahoo.co.uk",
       "gender": "Male",
       "country": "Finland"
-<<<<<<< HEAD
     },
     {
       "id": "0f60158a-9b8f-4833-ab88-325d2c39837e",
@@ -38,8 +37,13 @@
       "email": "ainal1haque@gmail.com",
       "gender": "Male",
       "country": ""
-=======
->>>>>>> 8258da94fa15b464bff7fcd5ed795e7cce0093bf
+    },
+    {
+      "id": "9e96e58f-c07c-4ca8-b49c-98f7c9d7bd69",
+      "name": "Laptop",
+      "email": "joy@luaaksolutions.com",
+      "gender": "Male",
+      "country": "India"
     }
   ]
 }
