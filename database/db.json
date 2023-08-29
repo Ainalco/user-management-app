@@ -30,6 +30,16 @@
       "email": "anisul2010s@yahoo.co.uk",
       "gender": "Male",
       "country": "Finland"
+<<<<<<< HEAD
+    },
+    {
+      "id": "0f60158a-9b8f-4833-ab88-325d2c39837e",
+      "name": "Faruk",
+      "email": "ainal1haque@gmail.com",
+      "gender": "Male",
+      "country": ""
+=======
+>>>>>>> 8258da94fa15b464bff7fcd5ed795e7cce0093bf
     }
   ]
 }

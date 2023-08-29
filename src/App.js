@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -85,11 +86,13 @@ const App = () => {
                 {error ? <p>{error}</p> : <Users users={users} onDeleteUser={deleteUser} onEditUser={editUser} />}
             </main>
             <footer>
-                <p>Copyright By Anisul Islam 2023</p>
-                <p>Developed with &hearts; by Anisul Islam</p>
+                <p>dev By Ainal 2023</p>
+                <p>Developed with &Lern; by Ainal</p>
             </footer>
         </div>
     );
 };
 
 export default App;
+
+
