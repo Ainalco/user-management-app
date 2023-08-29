@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRUD APP - HTTP Methods
 
 -   [here is the demo of this project](https://silver-truffle-790660.netlify.app/)
@@ -14,3 +15,7 @@
 -   CREATE (post)
 -   UPDATE (put)
 -   DELETE (delete)
+=======
+# user-management-app
+sd
+>>>>>>> db787c66d8ac5c55dab15e29370515c9e98be686
